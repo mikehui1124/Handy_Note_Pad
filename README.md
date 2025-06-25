@@ -1,4 +1,4 @@
-# challenge_11_handy_notes_taker
+# Handy_note_pad
 
 This is a JavaScript source-code for a Note Taker using express.js as backend service. The Note Taker can be used to write and save notes on a webpage. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 The app will be using Express package of NPM as dependency. The app will be invoked by using the following command:
