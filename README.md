@@ -14,6 +14,7 @@ The app is deployed on Heroku platform as follows:
 •	https://dry-cliffs-31651.herokuapp.com
 
 Brief description
+
 The app is built on a set of GET and POST routes regarding reading and writing new note entry to a database file (db.json).  When readily setup with express.js command on backend, the frontend JS code will make GET or POST require to the designated API endpoint to access resource in the database. This allows the UI to display existing notes or add new items into the database.  
 
 Snapshot of the Note Taker UI
