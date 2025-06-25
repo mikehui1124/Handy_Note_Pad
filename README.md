@@ -13,6 +13,7 @@ The app is deployed on Heroku platform as follows:
 
 •	https://dry-cliffs-31651.herokuapp.com
 
+
 Brief description
 
 The app is built on a set of GET and POST routes regarding reading and writing new note entry to a database file (db.json).  When readily setup with express.js command on backend, the frontend JS code will make GET or POST require to the designated API endpoint to access resource in the database. This allows the UI to display existing notes or add new items into the database.  
@@ -27,7 +28,7 @@ Acceptance criteria
 The application will meet the following criteria expected by an app user,
 
 •	The tool can allow writing and saving new notes
-•	When opening the app, I am presented with a landing page with a link to a notes page.
+•	When starting the app, a landing page opens with a link to a note taking pad.
 •	When clicking the button on the note page, I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
 •	When entering new note title and content, a Save icon appears in the navigation at the top of the page
 •	When clicking the save button, the new note I have entered is saved and appears in the left-hand column with the other existing notes
